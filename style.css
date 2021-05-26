@@ -1,0 +1,18 @@
+body {
+  text-align:center;
+}
+p {
+  color:blue  
+}
+#myNavbar
+{
+    float: right;
+    z-index: 9;
+}
+
+#maindiv
+{
+    z-index: 5;
+
+    
+}
